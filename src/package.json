@@ -43,7 +43,7 @@
                       "jsonminify"              : "0.2.3",
                       "measured"                : "0.1.6",
                       "mocha"                   : "2.1.0",
-                      "supertest"               : "2.0.0"
+                      "supertest"               : "3.0.0"
                      },
   "bin":             { "etherpad-lite": "./node/server.js" },
   "devDependencies": {
