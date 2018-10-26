@@ -28,7 +28,7 @@
                       "nodemailer"              : "0.3.44",
                       "cheerio"                 : "0.18.0",
                       "async-stacktrace"        : "0.0.2",
-                      "npm"                     : "3.0.0",
+                      "npm"                     : "3.10.4",
                       "ejs"                     : "1.0.0",
                       "graceful-fs"             : "3.0.5",
                       "slide"                   : "1.1.6",
@@ -42,7 +42,7 @@
                       "channels"                : "0.0.4",
                       "jsonminify"              : "0.2.3",
                       "measured"                : "0.1.6",
-                      "mocha"                   : "2.1.0",
+                      "mocha"                   : "3.0.0",
                       "supertest"               : "2.0.0"
                      },
   "bin":             { "etherpad-lite": "./node/server.js" },
