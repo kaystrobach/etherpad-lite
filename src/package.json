@@ -42,7 +42,7 @@
                       "channels"                : "0.0.4",
                       "jsonminify"              : "0.2.3",
                       "measured"                : "0.1.6",
-                      "mocha"                   : "2.1.0",
+                      "mocha"                   : "6.2.3",
                       "supertest"               : "2.0.0"
                      },
   "bin":             { "etherpad-lite": "./node/server.js" },
