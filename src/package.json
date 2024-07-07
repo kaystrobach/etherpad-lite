@@ -22,9 +22,9 @@
                       "async"                   : "0.9.0",
                       "connect"                 : "3.6.5",
                       "clean-css"               : "0.3.2",
-                      "uglify-js"               : "2.4.16",
+                      "uglify-js"               : "2.8.16",
                       "formidable"              : "1.0.16",
-                      "log4js"                  : "0.6.22",
+                      "log4js"                  : "6.0.0",
                       "nodemailer"              : "0.3.44",
                       "cheerio"                 : "0.18.0",
                       "async-stacktrace"        : "0.0.2",
@@ -43,7 +43,7 @@
                       "jsonminify"              : "0.2.3",
                       "measured"                : "0.1.6",
                       "mocha"                   : "2.1.0",
-                      "supertest"               : "2.0.0"
+                      "supertest"               : "7.0.0"
                      },
   "bin":             { "etherpad-lite": "./node/server.js" },
   "devDependencies": {
